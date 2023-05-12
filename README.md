@@ -1,1 +1,1 @@
-# ForestFire
+# Example of README.md
